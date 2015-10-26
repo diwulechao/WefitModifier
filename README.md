@@ -1,4 +1,4 @@
-﻿# Wefit Cheater for Android 微信运动修改器
+﻿# Wefit Modifier for Android 微信运动修改器
 Motify Wechat fit data in rooted Android phone
 
 微信运动修改器

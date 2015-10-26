@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wefit Cheater</string>
+
+    <string name="step">Step</string>
+    <string name="confirm">Confirm</string>
+    <string name="fail">Fail</string>
+    <string name="success">Success</string>
+</resources>
